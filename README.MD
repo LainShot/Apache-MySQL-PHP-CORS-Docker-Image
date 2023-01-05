@@ -1,6 +1,6 @@
 # Apache, MySQL, PHP with CORS Docker Image
 
-This repository contains a Docker image that installs Apache, MySQL, and PHP, and enables CORS on a Debian system.
+This repository contains a Docker image that runs Apache, MySQL, and PHP, and enables CORS on a Debian docker image.
 
 ## Usage
 
